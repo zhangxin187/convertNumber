@@ -32,9 +32,8 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "lib"),
     filename: "[name].js",
-    library: "aa",
+    library: "convertNumberCN",
     libraryTarget: "umd",
-    // libraryExport: "default",
     globalObject: "this",
   },
   mode: "none",
