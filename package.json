@@ -1,5 +1,5 @@
 {
-  "name": "convertnumbertochiese",
+  "name": "convertNumber",
   "version": "1.0.0",
   "author": "manman187",
   "description": "",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhangxin187/convertNumberToChiese.git"
+    "url": "git+https://github.com/zhangxin187/convertNumber.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhangxin187/convertNumberToChiese/issues"
+    "url": "https://github.com/zhangxin187/convertNumber/issues"
   },
-  "homepage": "https://github.com/zhangxin187/convertNumberToChiese#readme",
+  "homepage": "https://github.com/zhangxin187/convertNumber#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.37.0",
     "@typescript-eslint/parser": "^5.37.0",
